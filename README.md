@@ -31,9 +31,11 @@
 
 ![image](https://github.com/user-attachments/assets/cb9665bd-511c-499d-ae83-8acabd4867c8)
 
-8. Устанавливаем права на выполнение `sudo chmod +x /usr/bin/docker-compose` и проверяем установленную версию docker c помощью команды `docker --version`
+8. Устанавливаем права на выполнение `sudo chmod +x /usr/bin/docker-compose` 
 
 ![image](https://github.com/user-attachments/assets/372b8fd6-7c12-4b21-8cdf-2a515fc1f06e)
+
+9. Проверяем установленную версию docker c помощью команды `docker --version`
 
 ![image](https://github.com/user-attachments/assets/008fcc42-9639-4701-898d-edfcb1251e5a)
 

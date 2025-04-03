@@ -59,13 +59,19 @@
 
 ![image](https://github.com/user-attachments/assets/9ab016f9-60f9-4004-acd9-54c0c1373c3e)
 
-15. 
+15. Создаем файл конфигурации с помощью команды `touch /mnt/common_volume/grafana/grafana-config/grafana.ini`
 
 ![image](https://github.com/user-attachments/assets/36be6f18-9b8c-496f-bc72-dd072bfdcf1c)
 
+16. Копируем все файлы из директории config в /mnt/common_volume/swarm/grafana/config/ c помощью команды `cp config/* /mnt/common_volume/swarm/grafana/config/`
+
 ![image](https://github.com/user-attachments/assets/5198901b-9f7b-4d78-a745-aa3863252ecf)
 
+17. Переименовываем файл grafana.yaml в docker-compose.yaml с помощью `mv grafana.yaml docker-compose.yaml`
+
 ![image](https://github.com/user-attachments/assets/41d1cd56-91f4-473e-bb83-83bef2391e51)
+
+18. Запускаем Docker Compose в фоновом режиме с помощью `sudo docker compose up -d`
 
 ![image](https://github.com/user-attachments/assets/1ba0b64b-f93b-40ba-93f4-f68be388dc47)
 ![image](https://github.com/user-attachments/assets/3581849f-766c-4d9e-8544-62b9e02ba52c)

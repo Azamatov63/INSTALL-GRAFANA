@@ -174,12 +174,18 @@
 
 ![image](https://github.com/user-attachments/assets/3163dc1d-e73b-456b-a509-31301703024f)
 
-
+40. В меню выбираем вкладку Dashboards и создаем Dashboard. Жмем кнопку "Import dashboard
 
 ![image](https://github.com/user-attachments/assets/e1329d27-03e6-4fc7-94f3-dde11dad117e)
 
+41. Вписываем 1860 и жмем Load
+
 ![image](https://github.com/user-attachments/assets/8f627d86-1163-4079-b291-312a3ab43748)
 
+42. Нажимаем Import
+
 ![image](https://github.com/user-attachments/assets/38898e38-da02-480f-ac44-f2e0193a586a)
+
+43. Открывается такой Dashboard для мониторинга загрузки ОС
 
 ![image](https://github.com/user-attachments/assets/4b3ad6eb-2321-42f4-9df2-abb881f3260a)

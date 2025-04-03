@@ -88,12 +88,19 @@
 
 ![image](https://github.com/user-attachments/assets/69997362-c011-4f06-a3c7-7cff3a0f395b)
 
+21. Останавливаем grafana командой `sudo docker compose stop`
+
 ![image](https://github.com/user-attachments/assets/c3191edb-3c8a-42ae-b807-25fd3d703564)
+
+22. Чтобы полность остановить вводим команду `sudo docker compose down`
 
 ![image](https://github.com/user-attachments/assets/e292fd39-ac73-4be1-b890-2960930da02a)
 
-![image](https://github.com/user-attachments/assets/c773a368-2056-460a-8b33-0d31bf5ebccd)
+23. Заходим в конфигурационный файл докера с помощью команды `vi docker-compose.yaml`
 
+![image](https://github.com/user-attachments/assets/c773a368-2056-460a-8b33-0d31bf5ebccd)
 ![image](https://github.com/user-attachments/assets/0d8ea662-034f-460a-a4f9-a71567a0a796)
+
+24. Выходим вписав команду `:wq`
 
 ![image](https://github.com/user-attachments/assets/0e4cdcc2-0c99-47df-8fbd-caa9b05aeb88)

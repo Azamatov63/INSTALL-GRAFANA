@@ -189,3 +189,17 @@
 43. Открывается такой Dashboard для мониторинга загрузки ОС
 
 ![image](https://github.com/user-attachments/assets/4b3ad6eb-2321-42f4-9df2-abb881f3260a)
+
+# Victoria
+
+![image](https://github.com/user-attachments/assets/9a2413cf-a57e-4c67-ad68-2043b01fb557)
+
+![image](https://github.com/user-attachments/assets/ae07f680-c535-441e-8b04-a8c6e97b34cf)
+
+![image](https://github.com/user-attachments/assets/a454def3-abe2-4f18-8546-8c2c55f0978a)
+
+![image](https://github.com/user-attachments/assets/35f00c3b-9f54-4b84-8f4f-7c9854bbd4ad)
+
+![image](https://github.com/user-attachments/assets/f4e1c86c-4320-4ac2-bba6-1986c63fea1f)
+
+![Uploading image.png…]()

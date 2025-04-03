@@ -170,7 +170,11 @@
 
 ![image](https://github.com/user-attachments/assets/a242e5de-ed97-4d15-bde3-d5a04a8e6f5a)
 
+39. Нажимаем на Save & test и должно показывать зелёную галочку
+
 ![image](https://github.com/user-attachments/assets/3163dc1d-e73b-456b-a509-31301703024f)
+
+
 
 ![image](https://github.com/user-attachments/assets/e1329d27-03e6-4fc7-94f3-dde11dad117e)
 

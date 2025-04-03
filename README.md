@@ -208,22 +208,38 @@
 
 ![image](https://github.com/user-attachments/assets/a454def3-abe2-4f18-8546-8c2c55f0978a)
 
-48. 
+48. Далее Add Visualization
 
 ![image](https://github.com/user-attachments/assets/35f00c3b-9f54-4b84-8f4f-7c9854bbd4ad)
 
+49. Нажимаем Configure a new data source 
+
 ![image](https://github.com/user-attachments/assets/f4e1c86c-4320-4ac2-bba6-1986c63fea1f)
 
-![image](https://github.com/user-attachments/assets/39baa3ff-558b-43f8-93c7-f7582b7e79cb)
+50. И выбираем Prometheus
 
 ![image](https://github.com/user-attachments/assets/acb7a216-8e7b-427a-bff5-0bb45462a490)
 
+51. Вписываем:
+
+Name: Victoria
+
+Connection: http://victoriametrics:8428
+
 ![image](https://github.com/user-attachments/assets/cc0c9cf3-0428-4984-8301-88531d881b67)
+
+52. Нажимаем Save & Test
 
 ![image](https://github.com/user-attachments/assets/41b017bf-5e19-41b3-9280-6ef4385b934b)
 
+53. Переходим на вкладку Code
+
 ![image](https://github.com/user-attachments/assets/afcd6be1-8c26-4e7b-8645-01b5dfa16136)
 
+53. Вписываем light_metric1
+
 ![image](https://github.com/user-attachments/assets/10d294d3-e374-4cbf-9506-6a8ac33f7a7a)
+
+54. Выходит панель с графиком, где есть активность light_metric1
 
 ![image](https://github.com/user-attachments/assets/87321546-f167-49f5-95e9-be35b4a475e5)

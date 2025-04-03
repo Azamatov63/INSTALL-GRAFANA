@@ -107,35 +107,66 @@
 
 # Prometheus
 
-25. Переходи в директорию `cd grafana_stack_for_docker/`
+25. Переходи в директорию `cd grafana_stack_for_docker/` и копируем конфигурационные файлы с gitgub `sudo git clone https://github.com/Azamatov63/INSTALL-GRAFANA`
 
 ![image](https://github.com/user-attachments/assets/8aeda7b7-6580-4abe-bb81-8bb56b2dd459)
 
-26. 
+26. Проверяем, что репозиторий установился `ls`
 
 ![image](https://github.com/user-attachments/assets/591610c5-7c88-4f3a-a024-d0fc417fe30f)
 
+27. Копируем конфигурационный файл докера в папку с Grafan `cp docker-compose.yaml /home/Azamatov/grafana_stack_for_docker/`
+
 ![image](https://github.com/user-attachments/assets/d06a93a8-05c2-4b72-ba05-f285659c7b2b)
+
+28. Тоже самое делаем с файлом prometheus`cp prometheus.yaml /home/Azamatov/grafana_stack_for_docker/`
 
 ![image](https://github.com/user-attachments/assets/a9554a9e-aff1-4cc5-9a34-cc318aeafbbd)
 
+29. Переносим конфигурационный файл prometheus.yaml в конфиг Grafana, используя команду `mv prometheus.yaml /mnt/common_volume/swarm/grafana/config`
+
 ![image](https://github.com/user-attachments/assets/d73236ce-f596-48e1-aead-03614c83b2cc)
+
+30. Проверяем наличие файла `ls`
 
 ![image](https://github.com/user-attachments/assets/0869b094-dc81-40cb-93bf-63a009fcbac5)
 
+31. Запускаем docker compose `sudo docker compose up -d`
+
 ![image](https://github.com/user-attachments/assets/513df9ac-7c85-4edb-af3a-008dffba5eac)
+
+32. Переходим на вкладку Dashboards
 
 ![image](https://github.com/user-attachments/assets/163be610-81f9-4e98-b809-09437a10cd91)
 
+33. Жмем + Create Dashbord
+
 ![image](https://github.com/user-attachments/assets/142fcb3d-652d-48e9-81ca-9bf597106c1a)
+
+34. Нажимаем кнопку +Add visualization
 
 ![image](https://github.com/user-attachments/assets/85f7d89c-ea76-43bf-8096-e506e422bac2)
 
+35. После Configure a new data source
+
 ![image](https://github.com/user-attachments/assets/bcf32f4c-4648-490d-97f8-bd8a9c2dbdc2)
+
+36. Выбираем Prometheus
 
 ![image](https://github.com/user-attachments/assets/e3c96d1c-cd70-4a5d-95ac-29d7f41c93d9)
 
+37. Пункт Connection: `http://prometheus:9090`
+
 ![image](https://github.com/user-attachments/assets/a186bcdc-fd75-4482-9661-2a2331800a20)
+
+38. Пункт Authentication:
+
+ Выбирем Basic authentication
+
+<b>User:</b> admin
+
+<b>Password:</b> admin
+
 
 ![image](https://github.com/user-attachments/assets/a242e5de-ed97-4d15-bde3-d5a04a8e6f5a)
 

@@ -192,7 +192,7 @@
 
 # Victoria
 
-44. Вводим команду echo -e "# TYPE light_metric1 gauge\nlight_metric1 0" | curl --data-binary @- http://localhost:8428/api/v1/import/prometheus которая, отправляет бинарные данные на локальный сервер, который слушает на порту 8428.
+44. Вводим команду `echo -e "# TYPE light_metric1 gauge\nlight_metric1 0" | curl --data-binary @- http://localhost:8428/api/v1/import/prometheus` которая, отправляет бинарные данные на локальный сервер, который слушает на порту 8428.
 
 ![image](https://github.com/user-attachments/assets/2c86bbe4-6229-4fbf-a2bf-83539c06b97e)
 

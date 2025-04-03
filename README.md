@@ -23,9 +23,15 @@
 
 ![image](https://github.com/user-attachments/assets/1fbf4817-c4b8-4247-97c7-303aaf446559)
 
+6. Получаем последнюю версию Docker Compose, используя команду `COMVER=$(curl -s https://api.github.com/repos/docker/compose/releases/latest | grep 'tag_name' | cut -d\" -f4)`
+
 ![image](https://github.com/user-attachments/assets/50a49f8d-a5be-4a0a-af9a-db69a01bb0b5)
 
+7. Скачиваем и устанавливаем последнюю версию Docker Compose с помощью команды `sudo curl -L "https://github.com/docker/compose/releases/download/$COMVER/docker-compose-$(uname -s)-$(uname -m)" -o /usr/bin/docker-compose`
+
 ![image](https://github.com/user-attachments/assets/cb9665bd-511c-499d-ae83-8acabd4867c8)
+
+8. Устанавливаем права на выполнение `sudo chmod +x /usr/bin/docker-compose` и проверяем установленную версию docker c помощью команды `docker --version`
 
 ![image](https://github.com/user-attachments/assets/372b8fd6-7c12-4b21-8cdf-2a515fc1f06e)
 

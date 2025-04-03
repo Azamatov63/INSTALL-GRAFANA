@@ -39,15 +39,27 @@
 
 ![image](https://github.com/user-attachments/assets/008fcc42-9639-4701-898d-edfcb1251e5a)
 
+10. Клонируем репозиторий с github, где содержится Grafana с помощью команды `git clone https://github.com/skl256/grafana_stack_for_docker.git`
+
 ![image](https://github.com/user-attachments/assets/20edabf3-6167-4cdf-a25b-821bc2a37512)
+
+11. Переходим в директорию в Grafana с помощью команды `cd grafana_stack_for_docker`
 
 ![image](https://github.com/user-attachments/assets/aed2cc17-c4d8-4d6e-b79c-30905cde8719)
 
+12. Создаем директорию с помощью команды `sudo mkdir -p /mnt/common_volume/swarm/grafana/config`
+
 ![image](https://github.com/user-attachments/assets/81edb2f5-503c-4266-a3c3-d757f1f288bf)
+
+13. И создаем еще одну директорию `sudo mkdir -p /mnt/common_volume/grafana/{grafana-config,grafana-data,prometheus-data}`
 
 ![image](https://github.com/user-attachments/assets/f15e5689-080b-41e9-9190-c877ee7dec5c)
 
+14. Изменяем владельца и группу для указанных директорий и всех их содержимых файлов с помощью `sudo chown -R $(id -u):$(id -g) {/mnt/common_volume/swarm/grafana/config,/mnt/common_volume/grafana}`
+
 ![image](https://github.com/user-attachments/assets/9ab016f9-60f9-4004-acd9-54c0c1373c3e)
+
+15. 
 
 ![image](https://github.com/user-attachments/assets/36be6f18-9b8c-496f-bc72-dd072bfdcf1c)
 

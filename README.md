@@ -13,3 +13,6 @@
 3. Копирую репозиторий докера, для того чтобы его потом установить, используя <b>wget</b> используя тег <b>-P</b> для чтения командой `sudo wget -P /etc/yum.repos.d/ https://download.docker.com/linux/centos/docker-ce.repo`
 
 ![image](https://github.com/user-attachments/assets/49702220-2091-4d13-9b05-8a1c47eb7113)
+
+4. ![image](https://github.com/user-attachments/assets/9d328c5f-59bc-44d7-b803-cb1647a64837)
+![image](https://github.com/user-attachments/assets/016bfe10-4c09-4deb-b02c-4372631a8e99)

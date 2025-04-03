@@ -192,14 +192,38 @@
 
 # Victoria
 
+44. Вводим команду echo -e "# TYPE light_metric1 gauge\nlight_metric1 0" | curl --data-binary @- http://localhost:8428/api/v1/import/prometheus которая, отправляет бинарные данные на локальный сервер, который слушает на порту 8428.
+
+![image](https://github.com/user-attachments/assets/2c86bbe4-6229-4fbf-a2bf-83539c06b97e)
+
+45. Переходим в браузере по ссылке `http://localhost:8428/`, открывается такое меню в нём нужно выбрать `vmui`
+
 ![image](https://github.com/user-attachments/assets/9a2413cf-a57e-4c67-ad68-2043b01fb557)
+
+46. Вписываем `light_metric1` и нажимаем Execute Query
 
 ![image](https://github.com/user-attachments/assets/ae07f680-c535-441e-8b04-a8c6e97b34cf)
 
+47. Переходим на `http://localhost:3000` выбираем Dashboard и нажимаем New Dashboard
+
 ![image](https://github.com/user-attachments/assets/a454def3-abe2-4f18-8546-8c2c55f0978a)
+
+48. 
 
 ![image](https://github.com/user-attachments/assets/35f00c3b-9f54-4b84-8f4f-7c9854bbd4ad)
 
 ![image](https://github.com/user-attachments/assets/f4e1c86c-4320-4ac2-bba6-1986c63fea1f)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/39baa3ff-558b-43f8-93c7-f7582b7e79cb)
+
+![image](https://github.com/user-attachments/assets/acb7a216-8e7b-427a-bff5-0bb45462a490)
+
+![image](https://github.com/user-attachments/assets/cc0c9cf3-0428-4984-8301-88531d881b67)
+
+![image](https://github.com/user-attachments/assets/41b017bf-5e19-41b3-9280-6ef4385b934b)
+
+![image](https://github.com/user-attachments/assets/afcd6be1-8c26-4e7b-8645-01b5dfa16136)
+
+![image](https://github.com/user-attachments/assets/10d294d3-e374-4cbf-9506-6a8ac33f7a7a)
+
+![image](https://github.com/user-attachments/assets/87321546-f167-49f5-95e9-be35b4a475e5)

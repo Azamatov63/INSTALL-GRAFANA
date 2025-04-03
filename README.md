@@ -75,3 +75,25 @@
 
 ![image](https://github.com/user-attachments/assets/1ba0b64b-f93b-40ba-93f4-f68be388dc47)
 ![image](https://github.com/user-attachments/assets/3581849f-766c-4d9e-8544-62b9e02ba52c)
+
+19. Открываем браузер и переходим по адресу: <b>localhost:3000</b>
+
+<b>Логин:</b> admin
+
+<b>Пароль:</b> admin
+
+![image](https://github.com/user-attachments/assets/c9ee9cf7-9632-4600-b659-1fb2b7bf5ce9)
+
+20. Открывается страница <b>Home</b>
+
+![image](https://github.com/user-attachments/assets/69997362-c011-4f06-a3c7-7cff3a0f395b)
+
+![image](https://github.com/user-attachments/assets/c3191edb-3c8a-42ae-b807-25fd3d703564)
+
+![image](https://github.com/user-attachments/assets/e292fd39-ac73-4be1-b890-2960930da02a)
+
+![image](https://github.com/user-attachments/assets/c773a368-2056-460a-8b33-0d31bf5ebccd)
+
+![image](https://github.com/user-attachments/assets/0d8ea662-034f-460a-a4f9-a71567a0a796)
+
+![image](https://github.com/user-attachments/assets/0e4cdcc2-0c99-47df-8fbd-caa9b05aeb88)

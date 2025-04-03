@@ -104,3 +104,43 @@
 24. Выходим вписав команду `:wq`
 
 ![image](https://github.com/user-attachments/assets/0e4cdcc2-0c99-47df-8fbd-caa9b05aeb88)
+
+# Prometheus
+
+![image](https://github.com/user-attachments/assets/8aeda7b7-6580-4abe-bb81-8bb56b2dd459)
+
+![image](https://github.com/user-attachments/assets/591610c5-7c88-4f3a-a024-d0fc417fe30f)
+
+![image](https://github.com/user-attachments/assets/d06a93a8-05c2-4b72-ba05-f285659c7b2b)
+
+![image](https://github.com/user-attachments/assets/a9554a9e-aff1-4cc5-9a34-cc318aeafbbd)
+
+![image](https://github.com/user-attachments/assets/d73236ce-f596-48e1-aead-03614c83b2cc)
+
+![image](https://github.com/user-attachments/assets/0869b094-dc81-40cb-93bf-63a009fcbac5)
+
+![image](https://github.com/user-attachments/assets/513df9ac-7c85-4edb-af3a-008dffba5eac)
+
+![image](https://github.com/user-attachments/assets/163be610-81f9-4e98-b809-09437a10cd91)
+
+![image](https://github.com/user-attachments/assets/142fcb3d-652d-48e9-81ca-9bf597106c1a)
+
+![image](https://github.com/user-attachments/assets/85f7d89c-ea76-43bf-8096-e506e422bac2)
+
+![image](https://github.com/user-attachments/assets/bcf32f4c-4648-490d-97f8-bd8a9c2dbdc2)
+
+![image](https://github.com/user-attachments/assets/e3c96d1c-cd70-4a5d-95ac-29d7f41c93d9)
+
+![image](https://github.com/user-attachments/assets/a186bcdc-fd75-4482-9661-2a2331800a20)
+
+![image](https://github.com/user-attachments/assets/a242e5de-ed97-4d15-bde3-d5a04a8e6f5a)
+
+![image](https://github.com/user-attachments/assets/3163dc1d-e73b-456b-a509-31301703024f)
+
+![image](https://github.com/user-attachments/assets/e1329d27-03e6-4fc7-94f3-dde11dad117e)
+
+![image](https://github.com/user-attachments/assets/8f627d86-1163-4079-b291-312a3ab43748)
+
+![image](https://github.com/user-attachments/assets/38898e38-da02-480f-ac44-f2e0193a586a)
+
+![image](https://github.com/user-attachments/assets/4b3ad6eb-2321-42f4-9df2-abb881f3260a)

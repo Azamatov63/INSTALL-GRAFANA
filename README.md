@@ -107,7 +107,11 @@
 
 # Prometheus
 
+25. Переходи в директорию `cd grafana_stack_for_docker/`
+
 ![image](https://github.com/user-attachments/assets/8aeda7b7-6580-4abe-bb81-8bb56b2dd459)
+
+26. 
 
 ![image](https://github.com/user-attachments/assets/591610c5-7c88-4f3a-a024-d0fc417fe30f)
 
